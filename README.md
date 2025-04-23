@@ -3,7 +3,7 @@
 
 This is a **Virtual Mouse** project that uses a webcam and hand gesture recognition to control mouse actions such as cursor movement, left-click, right-click, double-click, and screenshot—all without touching your physical mouse!
 
-
+![image](https://github.com/anushkagupta1211/Virtual-Mouse-Using-Hand-Gestures/blob/main/Virtual%20Mouse_..png?raw=true)
 
 ## 🛠️ Features
 
